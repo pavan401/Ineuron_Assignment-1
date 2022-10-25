@@ -1,4 +1,3 @@
-package pattern.assigment;
 public class Ineuron {
 
 	public static void main(String[] args) {
